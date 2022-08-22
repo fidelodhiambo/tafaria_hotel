@@ -1,5 +1,5 @@
 body{
-    background-color: #5fffea75;
+    background-color: #ff5f5f75;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
     text-align: center;
@@ -35,12 +35,12 @@ border-right: 2px solid #5fffea75;
 .top-menu ul li a{
     text-decoration: none;
     text-transform: uppercase;
-    color: #5fffea75;
+    color: #ff5fa475;
     font-weight: 800;
     font-size: 24px;
 }
 .top-menu ul :hover{
-    background-color: #ff5f5f75;
+    background-color: #84ff5f75;
 }
 .top-menu ul li :hover a{
     text-decoration: underline;
