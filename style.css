@@ -40,7 +40,7 @@ border-right: 2px solid #5fffea75;
     font-size: 24px;
 }
 .top-menu ul :hover{
-    background-color: #5fffea75;
+    background-color: #ff5f5f75;
 }
 .top-menu ul li :hover a{
     text-decoration: underline;
